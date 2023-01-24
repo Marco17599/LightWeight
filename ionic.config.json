@@ -1,0 +1,7 @@
+{
+  "name": "LightWeight",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
